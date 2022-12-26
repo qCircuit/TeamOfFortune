@@ -25,7 +25,7 @@
 - employer_is_trusted: has an employer passed the reliability check
 
 ## PROJECT STRUCTURE 
-- [RESEARCH_AND_VISUALIZATION](RESEARCH_VISUALIZATION.ipynb) : market analysis and visualizaiton
+- [RESEARCH_AND_VISUALIZATION](RESEARCH_AND_VISUALIZATION.ipynb) : market analysis and visualizaiton
 - [TECHNICALS](TECHNICALS.ipynb) : data collection, processing and predictor model prototype
 
 ## DATA SOURCES:
