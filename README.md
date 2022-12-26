@@ -1,6 +1,9 @@
 # TeamOfFortune
 
-## TARGET
+## BUSINESS AIM
+- Research and analyze the IT vacancies market
+- Provide the salary predictor for a recruitment agency to access the fair compensation for a candidate
+
 
 ## DATA STRUCTURES
 
@@ -21,9 +24,10 @@
 - employer name: as it is
 - employer_is_trusted: has an employer passed the reliability check
 
+## PROJECT STRUCTURE 
+- [RESEARCH_AND_VISUALIZATION](RESEARCH_VISUALIZATION.ipynb) : market analysis and visualizaiton
+- [TECHNICALS](TECHNICALS.ipynb) : data collection, processing and predictor model prototype
 
 ## DATA SOURCES:
 - https://hh.ru/
 	- via api.hh.ru
-- kaggle: https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries
-	- via kaggle api
