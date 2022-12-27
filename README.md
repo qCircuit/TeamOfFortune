@@ -1,5 +1,11 @@
 # TeamOfFortune
 
+# ЦЕЛЬ И ЗАДАЧИ
+
+1. закрепеить полученные теоретические навыки на практике. 
+2. подготовить визуализацию собранного датасета, для формирования картины текущего ситуации рынка труда. 
+3. сформировать модель для бизнеса, позволяющую осуществить прайсинг кандидата, т.е на основе его опыта и имеющихся скилов предложить модель адекватной по рынку зарплатной политики.
+
 ## BUSINESS AIM
 - Research and analyze the IT vacancies market
 - Provide the salary predictor for a recruitment agency to access the fair compensation for a candidate
